@@ -2,7 +2,7 @@
 
 Prototyp für einen Feueralarm für Tiere in Waldbrandgebieten - Prototype for a fire alarm for animals in wildfire-prone areas
 
-by Jabora Speder, July 2025
+by **Jabora Speder, July 2025**
 
 ## Hardware 
 
