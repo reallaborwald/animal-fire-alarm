@@ -4,6 +4,8 @@ Prototyp für einen Feueralarm für Tiere in Waldbrandgebieten - Prototype for a
 
 by **Jabora Speder, July 2025**
 
+## Also became part of our [TechTales exhibition!](https://github.com/reallaborwald/tech-tales)
+
 ## Hardware 
 
 ![circuit diagram](./hardware/image_2_setup.jpg)
